@@ -13,14 +13,13 @@ It allows data scientists to:
 Inspired by real-world MLOps tools like MLFlow, Comet, W&B, and Neptune.
 
 ## 📦 Tech Stack
-
 - React
 - Chart.js via react-chartjs-2
 - PapaParse (CSV parser)
 
 ## 🚀 Live Demo
 
-[View on Vercel](https://your-vercel-app.vercel.app)
+[View on Netlify](https://mlops-experiment-viewer.netlify.app/)
 
 ## 📝 How to Run Locally
 
